@@ -1,0 +1,5 @@
+department_id,name,description,floor,contact
+DEPT001,Cardiology,Heart and cardiovascular care,2,ext-201
+DEPT002,Pediatrics,Child healthcare and wellness,1,ext-202
+DEPT003,Orthopedics,Bone and joint care,3,ext-203
+DEPT004,Emergency,24/7 emergency care,Ground,ext-911

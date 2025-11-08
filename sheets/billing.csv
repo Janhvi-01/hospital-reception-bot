@@ -1,0 +1,5 @@
+service,typical_cost,notes
+consultation,"₹500 - ₹2000","Depends on doctor specialization"
+lab,"₹300 - ₹5000","Varies by test complexity"
+pharmacy,"₹100 - ₹10000","As per prescribed medicines"
+inpatient,"₹5000 - ₹50000 per day","Includes room, nursing, basic care"

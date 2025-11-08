@@ -1,0 +1,5 @@
+doctor_id,name,department,days,time,notes,contact
+DOC001,Dr. Sharma,Cardiology,"Mon,Wed,Fri",09:00-13:00,Senior Cardiologist,ext-101
+DOC002,Dr. Patel,Pediatrics,"Tue,Thu,Sat",10:00-16:00,Child Specialist,ext-102
+DOC003,Dr. Kumar,Orthopedics,"Mon-Fri",08:00-12:00,Bone Specialist,ext-103
+DOC004,Dr. Gupta,Cardiology,"Tue,Thu",14:00-18:00,Interventional Cardiologist,ext-104

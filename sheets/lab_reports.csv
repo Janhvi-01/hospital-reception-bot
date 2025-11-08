@@ -1,0 +1,5 @@
+sample_id,patient_name,test_name,date,status,notes
+LAB001,John Doe,Blood Test,2024-01-15,Ready,Collect before 6 PM
+LAB002,Jane Smith,Urine Test,2024-01-16,Pending,Results in 24 hours
+LAB003,Robert Brown,X-Ray,2024-01-14,Delivered,Sent to Dr. Kumar
+LAB004,Alice Johnson,ECG,2024-01-17,Ready,Collect with ID proof

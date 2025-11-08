@@ -1,0 +1,13 @@
+intent_name,training_phrases,parameters,webhook,responses
+Welcome,"hi,hello,hey,good morning,good afternoon","none",false,"Hello! I'm the hospital receptionist assistant. I can help with: doctor schedules, department info, lab report status, billing queries, registration info, hospital hours, and emergency contacts. How can I help you today?"
+Goodbye,"bye,goodbye,see you,thanks,thank you","none",false,"You're welcome! Have a great day. Goodbye!"
+Ask_Hospital_Hours,"what are your hours,when are you open,hospital hours,opening time","none",true,""
+Ask_Location,"where are you located,what is your address,directions,parking information","none",true,""
+Department_Info,"department information,which department,cardiology department,pediatrics","department_name",true,""
+Doctor_Availability,"doctor availability,when is doctor available,doctor schedule,is doctor in today","doctor_name,department_name",true,""
+Lab_Report_Status,"lab report status,test results,sample status","sample_id",true,""
+Billing_Query,"billing information,costs,prices,how much does it cost","service",true,""
+Registration_Info,"how to register,registration process,new patient,document requirements","none",false,"For new patient registration, please bring: 1) Government ID, 2) Insurance card (if any), 3) Previous medical records. Visit the registration desk on the ground floor. For follow-up visits, bring your patient ID card."
+Emergency_Contact,"emergency,help,urgent,emergency contact","none",false,"If this is life-threatening, call emergency services at 112 immediately and our emergency helpline at +91-XXXXXXXXXX. Please do that now."
+FAQ_General,"visiting hours,visitor policy,phone number,contact information","none",true,""
+Fallback,"","none",false,"I'm not sure I understand. I can help with: 1) Doctor schedules, 2) Department info, 3) Lab reports, 4) Billing queries. Which would you like? Or call +91-XXXXXXXXXX for immediate assistance."
